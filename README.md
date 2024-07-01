@@ -37,7 +37,7 @@
 ## Инструкции по установке и запуску проекта
 1. Клонируйте репозиторий:
 git clone https://github.com/abylai123-tech/frontend_kaspi_task.git
-cd your-repository
+cd ваш-репозиторий
 
 ## 2.Установите зависимости:
 npm install
